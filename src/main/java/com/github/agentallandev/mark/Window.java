@@ -1,6 +1,6 @@
-package com.github.agentallandev.jade;
+package com.github.agentallandev.mark;
 
-import com.github.agentallandev.jade.util.Time;
+import com.github.agentallandev.mark.util.Time;
 import org.lwjgl.Version;
 import org.lwjgl.glfw.GLFWErrorCallback;
 import org.lwjgl.opengl.GL;

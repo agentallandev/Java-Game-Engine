@@ -1,9 +1,8 @@
-package com.github.agentallandev.jade;
+package com.github.agentallandev.mark;
 
-import com.github.agentallandev.jade.renderer.Shader;
+import com.github.agentallandev.mark.renderer.Shader;
 import org.lwjgl.BufferUtils;
 
-import java.awt.event.KeyEvent;
 import java.nio.FloatBuffer;
 import java.nio.IntBuffer;
 

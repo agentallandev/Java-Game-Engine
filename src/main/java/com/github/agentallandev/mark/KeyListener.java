@@ -1,4 +1,4 @@
-package com.github.agentallandev.jade;
+package com.github.agentallandev.mark;
 
 import static org.lwjgl.glfw.GLFW.GLFW_PRESS;
 import static org.lwjgl.glfw.GLFW.GLFW_RELEASE;

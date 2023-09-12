@@ -1,6 +1,5 @@
-package com.github.agentallandev.jade.renderer;
+package com.github.agentallandev.mark.renderer;
 
-import java.io.IOError;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;

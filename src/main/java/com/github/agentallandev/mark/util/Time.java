@@ -1,4 +1,4 @@
-package com.github.agentallandev.jade.util;
+package com.github.agentallandev.mark.util;
 
 public class Time {
     public static float timeStarted = System.nanoTime();
